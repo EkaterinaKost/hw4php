@@ -1,0 +1,15 @@
+{
+    "name": "professional/homework4.local",
+    "autoload": {
+        "psr-4": {
+            "Professional\\Homework4Local\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ekaterina",
+            "email": "kostcat-84@mail.ru"
+        }
+    ],
+    "require": {}
+}
